@@ -1,7 +1,8 @@
 
+# Welcome
 Welcome to AGL Learning!
 
-# Our philosophy
+## Our philosophy
 
-# Getting started
+## Getting started
 

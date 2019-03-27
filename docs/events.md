@@ -1,5 +1,7 @@
+# Events
+
 We're planning a couple of events. Stay tuned!
 
-# Brown bag lunches
+## Brown bag lunches
 
-# Open Space
+## Open Space
