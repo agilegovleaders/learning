@@ -1,0 +1,15 @@
+
+site_name: AGL Learning (pre-alpha)
+repo_url: https://github.com/agilegovleaders/learning
+
+theme:
+    name: readthedocs
+
+nav:
+    - Welcome: 'index.md'
+    - Content that we like: 'articles.md'
+    - Homebrewed videos: 'videos.md'
+    - Events: 'events.md'
+    - Feedback: 'feedback.md' 
+    - About: about.md
+
